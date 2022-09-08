@@ -1,3 +1,13 @@
 dist/
 *.js
 .idea
+
+build
+node_modules
+public/**/*.js
+*.map
+dist
+
+# System Files
+.DS_Store
+Thumbs.db
